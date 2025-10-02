@@ -1,0 +1,15 @@
+{
+  "Title": "RWSC Offering Color Picker",
+  "Description": "A small utility tool for checking the color of the mouse you\u0027re currently holding. Made both as a time saver and accessibility tool for those who may be colorblind.",
+  "ID": "magica.mousecolor",
+  "Version": "0.1.0",
+  "TargetGameVersion": "v1.9.15",
+  "Requirements": "",
+  "RequirementNames": "",
+  "Authors": "Magicajaphet",
+  "Visibility": "Unlisted",
+  "Tags": [],
+  "WorkshopID": 3410940558,
+  "UploadFilesOnly": false,
+  "UploadThumbnail": false
+}

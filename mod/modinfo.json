@@ -1,0 +1,11 @@
+﻿{
+  "id": "magica.mousecolor",
+  "name": "RWSC Offering Color Picker",
+  "version": "0.1.0",
+  "authors": "Magicajaphet",
+  "description": "A small utility tool for checking the color of the mouse you're currently holding. Made both as a time saver and accessibility tool for those who may be colorblind.",
+  "tags": [],
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": false
+}
